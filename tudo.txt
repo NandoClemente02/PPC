@@ -1,0 +1,2 @@
+implementar controle de opções.
+implementar evitando caracters especiais.
